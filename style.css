@@ -1,0 +1,22 @@
+.btn{
+    border-radius: 50%px;
+    background-color: #458FF6;
+}
+.header-titel{
+    margin-top: 150px;
+}
+.search{
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+}
+.titel{
+    color: #7D7987;
+}
+.all{
+    margin-top: 25px;
+    color: blue;
+    padding: 3px 10px;
+    border-radius: 20px;
+    border: 1px solid blue;
+}
